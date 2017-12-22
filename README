@@ -1,0 +1,9 @@
+
+This file is the .sh file for installing Python OpenCv in Ubuntu System.
+
+Download the file and make it executable by the command 
+
+	chmod +x execute.sh
+	./execute.sh
+
+Before copying the commands change the directory to the location of execute.sh file
